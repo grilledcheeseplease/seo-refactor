@@ -1,1 +1,4 @@
-# seo-refactor
+# Horiseon SEO Refactor
+
+## Table of Contents
+
