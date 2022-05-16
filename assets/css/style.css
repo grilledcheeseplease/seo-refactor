@@ -41,8 +41,9 @@ nav a {
     text-decoration: none;
 }
 
+/* changed font size to help with accessibility */
 p {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .hero {
@@ -88,7 +89,7 @@ main article h2 {
 
 /* update path to follow html and consolidate code */
 main article img {
-    max-height: 200px;
+    max-height: 175px;
 }
 
 .benefits {
@@ -121,7 +122,6 @@ aside article img {
     max-width: 150px;
 }
 
-/* changed from class to tag */
 .footer {
     padding: 30px;
     clear: both;
